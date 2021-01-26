@@ -1,0 +1,5 @@
+fastapi
+python-multipart
+opencv-python
+easyocr
+numpy
